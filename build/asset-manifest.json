@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rigrios/React-todo/static/css/main.794d3edb.css",
+    "main.js": "/Rigrios/React-todo/static/js/main.ecca1844.js",
+    "index.html": "/Rigrios/React-todo/index.html",
+    "main.794d3edb.css.map": "/Rigrios/React-todo/static/css/main.794d3edb.css.map",
+    "main.ecca1844.js.map": "/Rigrios/React-todo/static/js/main.ecca1844.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.794d3edb.css",
+    "static/js/main.ecca1844.js"
+  ]
+}

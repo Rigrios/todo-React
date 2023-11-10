@@ -1,0 +1,29 @@
+
+
+
+
+.createInput {
+    display: flex;
+}
+
+.inputBox {
+    flex: 1 1 auto;
+}
+
+.input {
+    width: 95%;
+    outline: none;
+    color: #f2f2f2;
+    background-color: #222222;
+    resize: vertical;
+    padding: 20px;
+    
+}
+
+.button {
+    color: #f2f2f2;
+    background-color: #ffffff;
+    padding: 20px 10px;
+    clip-path: polygon(0 0, 0 100%, 100% 50%);
+    
+}
